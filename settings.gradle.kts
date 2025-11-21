@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "3171"
+rootProject.name = "passordgenerator"
 include(":app")
  
